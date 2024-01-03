@@ -4,12 +4,16 @@
  * @param {number} t
  * @return {Function}
  */
-var cancellable = function(fn, args, t) {
-    fn(...args);
-    let timer = setInterval(() => fn(...args), t);
-
-    let cancelFn = () => clearInterval(timer);
+ var cancellable =  function(fn, args, t) {
+    fn(...args)
+    const interval = setInterval(()=>{
+        fn(...args)
+    },t)
+    const cancelFn = ()=>{
+        clearInterval(interval)
+    }
     return cancelFn;
+    
 };
 
 /**
