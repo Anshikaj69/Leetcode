@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Anshikaj69/Leetcode/tree/master/0035-search-insert-position) |
 | [1791-richest-customer-wealth](https://github.com/Anshikaj69/Leetcode/tree/master/1791-richest-customer-wealth) |
 ## Matrix
 |  |
@@ -32,4 +33,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Anshikaj69/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Anshikaj69/Leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
