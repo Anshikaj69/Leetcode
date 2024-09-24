@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Anshikaj69/Leetcode/tree/master/0035-search-insert-position) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Anshikaj69/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Anshikaj69/Leetcode/tree/master/0792-binary-search) |
 | [1791-richest-customer-wealth](https://github.com/Anshikaj69/Leetcode/tree/master/1791-richest-customer-wealth) |
 ## Matrix
@@ -38,5 +39,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Anshikaj69/Leetcode/tree/master/0035-search-insert-position) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Anshikaj69/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Anshikaj69/Leetcode/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
